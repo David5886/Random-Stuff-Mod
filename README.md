@@ -1,4 +1,4 @@
-[![Java CI with Gradle](https://github.com/David5886/Random-Stuff-Mod/actions/workflows/gradle.yml/badge.svg)](https://github.com/David5886/Random-Stuff-Mod/actions/workflows/gradle.yml)
+[![Build Status](https://github.com/David5886/Random-Stuff-Mod/actions/workflows/gradle.yml/badge.svg)](https://github.com/David5886/Random-Stuff-Mod/actions/workflows/gradle.yml)
 
 Source installation information for modders
 -------------------------------------------
